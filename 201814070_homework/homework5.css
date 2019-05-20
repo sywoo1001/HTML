@@ -1,0 +1,9 @@
+#subtitle {font-style:italic; font-size:15pt; text-shadow:3px 3px 5px black}
+.st {font-weight:bold; text-decoration:underline; font-size:14pt}
+p {font-size:12pt}
+strong.st {color:red}
+li.nonum {list-style-type: square}
+li.yenum {list-style-type: decimal}
+body {font-style:italic}
+#keybord {table-layout: auto; border-collapse: collapse; border-spacing: 5px; border: thick outset silver; empty-cells: hide; caption-side: bottom}
+#keybord caption {font-size:10pt; color: blue; font-weight: bold; margin: 0.5em}
